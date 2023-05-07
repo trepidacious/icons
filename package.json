@@ -4,7 +4,7 @@
   "description": "Script to generate ico, icns and multiple sizes of png from input png",
   "main": "index.js",
   "dependencies": {
-    "jimp": "^0.8.5",
+    "jimp": "^0.22.7",
     "png2icons": "^2.0.1"
   },
   "devDependencies": {},
